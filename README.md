@@ -1,2 +1,2 @@
-# LocalStripe-Mock-Service
-Mocked Stripe Server in Java SpringBoot
+# LocalStripe
+A stateful Stripe Server for Testing Purposes.
